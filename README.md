@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**Karthhikk18/Karthhikk18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) student at Parul University  
+💻 Focused on Data Structures & Algorithms using Python  
+🤖 Exploring Machine Learning fundamentals  
+🎯 Goal: Strong software engineering placement by final year  
 
-Here are some ideas to get you started:
+## Skills
+- Programming: Python, C (basic), Java (learning)
+- Core CS: DSA, DBMS, OS (foundations)
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Improving problem-solving through DSA
+- Building clean, well-documented projects
